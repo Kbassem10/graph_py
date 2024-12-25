@@ -9,7 +9,7 @@ for example:
 A -- B
 |  \ |
 C -- D
-number of edges = 5
+number of LINKS 'AHMED WESSAM' = 5
 number of nodes = 4
 '''
 n = int(input("The number of Nodes: "))
