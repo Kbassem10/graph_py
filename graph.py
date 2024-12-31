@@ -1,14 +1,12 @@
-#Karim Bassem Joseph
-
 import networkx as nx
 import matplotlib.pyplot as plt
 
 '''
 getting input from the user with the number of nodes and the number of edges between them
 for example: 
-A -- B
+1 -- 2
 |  \ |
-C -- D
+3 -- 4
 number of edges = 5
 number of nodes = 4
 '''
