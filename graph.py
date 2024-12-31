@@ -6,12 +6,12 @@ getting input from the user with the number of nodes and the number of edges bet
 for example: 
 1 -- 2
 |  \ |
-3 -- 4
-number of edges = 5
+C -- D
+number of links = 5
 number of nodes = 4
 '''
 n = int(input("The number of Nodes: "))
-m = int(input("The Number of edges: "))
+m = int(input("The Number of links: "))
 
 #this line below creates a matrix (2D array) with all of the items set to 0 
 # the loop is responsible to make it 2D and the * to make the 0
